@@ -6,7 +6,7 @@ Coded in Java, using the JavaFX library.
 
 This application illustrates a backtracking algorithm for solving mazes, using a stack to allow for iterative stepping through the process.  
 
-The code is fully documented using javadocs in the html-javadocs folder.
+The code is fully documented using javadocs.
 
 ## Features
 - stepping through the solving algorithm one move at a time
